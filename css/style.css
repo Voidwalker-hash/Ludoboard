@@ -1,0 +1,1123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clr {
+    clear: both;
+}
+
+/*Common Class End*/
+
+/*first field start here*/
+.main_field {
+    width: 800px;
+    height: 800px;
+    background: pink;
+    position: relative;
+    margin: 4% 30%;
+
+}
+
+.sub_field-1 {
+    width: 300px;
+    height: 300px;
+    background: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid black;
+}
+
+.inside_field-1 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background: #fff;
+    top: 50px;
+    left: 50px;
+}
+
+.small_field-1 {
+    width: 70px;
+    height: 70px;
+    background: red;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.small_field-2 {
+    width: 70px;
+    height: 70px;
+    background: red;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.small_field-3 {
+    width: 70px;
+    height: 70px;
+    background: red;
+    position: absolute;
+    top: 20px;
+    left: 110px;
+}
+
+.small_field-4 {
+    width: 70px;
+    height: 70px;
+    background: red;
+    position: absolute;
+    top: 110px;
+    left: 110px;
+}
+
+/*first field end here*/
+
+/*2nd field start here*/
+.sub_field-2 {
+    width: 300px;
+    height: 300px;
+    background: #2000ff;
+    position: absolute;
+    top: 0;
+    left: 500px;
+    border: 1px solid black;
+}
+
+.inside_field-2 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background: #fff;
+    top: 50px;
+    left: 50px;
+
+}
+
+.small_field-11 {
+    width: 70px;
+    height: 70px;
+    background: blue;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.small_field-22 {
+    width: 70px;
+    height: 70px;
+    background: blue;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.small_field-33 {
+    width: 70px;
+    height: 70px;
+    background: blue;
+    position: absolute;
+    top: 20px;
+    left: 110px;
+}
+
+.small_field-44 {
+    width: 70px;
+    height: 70px;
+    background: blue;
+    position: absolute;
+    top: 110px;
+    left: 110px;
+}
+
+/*2nd field end here*/
+
+
+/*three field start here*/
+
+.sub_field-3 {
+    width: 300px;
+    height: 300px;
+    background: #c69b1a;
+    position: absolute;
+    left: 0;
+    top: 500px;
+    border: 1px solid black;
+}
+
+.inside_field-3 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background: #fff;
+    top: 50px;
+    left: 50px;
+
+}
+
+.small_field-111 {
+    width: 70px;
+    height: 70px;
+    background: #c69b1a;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.small_field-222 {
+    width: 70px;
+    height: 70px;
+    background: #c69b1a;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.small_field-333 {
+    width: 70px;
+    height: 70px;
+    background: #c69b1a;
+    position: absolute;
+    top: 20px;
+    left: 110px;
+}
+
+.small_field-444 {
+    width: 70px;
+    height: 70px;
+    background: #c69b1a;
+    position: absolute;
+    top: 110px;
+    left: 110px;
+}
+
+/*three field end here*/
+
+
+/*fourth field start here*/
+
+.sub_field-4 {
+    width: 300px;
+    height: 300px;
+    background: #d213b5;
+    position: absolute;
+    left: 500px;
+    top: 500px;
+    border: 1px solid black;
+}
+
+.inside_field-4 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background: #fff;
+    top: 50px;
+    left: 50px;
+
+}
+
+.small_field-1111 {
+    width: 70px;
+    height: 70px;
+    background: #d213b5;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.small_field-2222 {
+    width: 70px;
+    height: 70px;
+    background: #d213b5;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.small_field-3333 {
+    width: 70px;
+    height: 70px;
+    background: #d213b5;
+    position: absolute;
+    top: 20px;
+    left: 110px;
+}
+
+.small_field-4444 {
+    width: 70px;
+    height: 70px;
+    background: #d213b5;
+    position: absolute;
+    top: 110px;
+    left: 110px;
+}
+
+/*fourth field start here*/
+
+/*ludu rd-1 start here*/
+.ludu_rd-1 {
+    width: 200px;
+    height: 300px;
+    background: #fff;
+    position: absolute;
+    top: 0;
+    left: 300px;
+}
+
+.main_cell-1 {
+    width: 200px;
+    height: 300px;
+    background: yellow;
+    position: relative;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+/*cell-1 css start here*/
+.cell-1 {
+    height: 16.66%;
+    width: 100%;
+    border-bottom: 1px solid black;
+    position: absolute;
+    background: white;
+}
+
+.sub_cell-1 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.colum-1 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+}
+
+.colum-2 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+    left: 33.33%;
+}
+
+.colum-3 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+}
+
+/*cell-1 css end here*/
+
+/*cell -2 css start here*/
+.cell-2 {
+    height: 16.66%;
+    width: 100%;
+    border-bottom: 1px solid black;
+    position: absolute;
+    background: white;
+    top: 16.66%
+}
+
+.sub_cell-2 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.colum-11 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+    /*    background: blue;*/
+}
+
+.colum-22 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+    left: 33.33%;
+    background: blue;
+}
+
+.colum-33 {
+    width: 33.33%;
+    height: 100%;
+    position: absolute;
+    left: 66.66%;
+    background: blue;
+}
+
+/*cel-2 css end here*/
+
+/*cel-3 css start here*/
+
+.cell-3 {
+    height: 16.66%;
+    width: 100%;
+    border-bottom: 1px solid black;
+    position: absolute;
+    background: white;
+    top: 33.33%
+}
+
+.sub_cell-3 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.colum-111 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+    /*    background: blue;*/
+}
+
+.colum-222 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+    left: 33.33%;
+    background: blue;
+}
+
+.colum-333 {
+    width: 33.33%;
+    height: 100%;
+    position: absolute;
+    left: 66.66%;
+}
+
+/*cell-3 css end here*/
+
+
+/*cell-4 css start here*/
+
+.cell-4 {
+    height: 16.66%;
+    width: 100%;
+    border-bottom: 1px solid black;
+    position: absolute;
+    background: white;
+    top: 50%
+}
+
+.sub_cell-4 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.colum-1111 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+}
+
+.colum-2222 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+    left: 33.33%;
+    background: blue;
+}
+
+.colum-3333 {
+    width: 33.33%;
+    height: 100%;
+    position: absolute;
+    left: 66.66%;
+}
+
+/*cell-4 css end here*/
+
+/*cell-5 css start here*/
+.cell-5 {
+    height: 16.66%;
+    width: 100%;
+    border-bottom: 1px solid black;
+    position: absolute;
+    background: white;
+    top: 66.66%
+}
+
+.sub_cell-5 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.colum-11111 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+}
+
+.colum-22222 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+    left: 33.33%;
+    background: blue;
+}
+
+.colum-33333 {
+    width: 33.33%;
+    height: 100%;
+    position: absolute;
+    left: 66.66%;
+}
+
+/*cell-5 css end here*/
+
+
+/*cell-6 css start here*/
+
+.cell-6 {
+    height: 16.66%;
+    width: 100%;
+    position: absolute;
+    background: white;
+    top: 83.33%
+}
+
+.sub_cell-6 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.colum-111111 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+}
+
+.colum-222222 {
+    width: 33.33%;
+    height: 100%;
+    border-right: 1px solid black;
+    position: absolute;
+    left: 33.33%;
+    background: blue;
+}
+
+.colum-333333 {
+    width: 33.33%;
+    height: 100%;
+    position: absolute;
+    left: 66.66%;
+}
+
+/*cell-6 css end here*/
+/*ludu rd-1 end here*/
+
+
+/*ludu rd-2 Start here*/
+.ludu_rd-2 {
+    width: 300px;
+    height: 200px;
+    background: #fff;
+    top: 300px;
+    left: 0;
+    position: absolute;
+}
+
+.main_cell-2 {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.left_cell {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.left_site-1 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.sub_colum-1 {
+    width: 100%;
+    height: 33.33%;
+    border-bottom: 1px solid black;
+    position: absolute;
+}
+
+.colum_rd-1 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+}
+
+.colum_rd-2 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 16.66%;
+    background: red;
+}
+
+.colum_rd-3 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 33.33%;
+}
+
+.colum_rd-4 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 50%;
+}
+
+.colum_rd-5 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 66.66%;
+}
+
+.colum_rd-6 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    left: 83.33%;
+}
+
+.sub_colum-2 {
+    width: 100%;
+    height: 33.33%;
+    border-bottom: 1px solid black;
+    position: absolute;
+    top: 33.33%
+}
+
+.colum_rd-11 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+}
+
+.colum_rd-22 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 16.66%;
+    background: red;
+}
+
+.colum_rd-33 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 33.33%;
+    background: red;
+}
+
+.colum_rd-44 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 50%;
+    background: red;
+}
+
+.colum_rd-55 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 66.66%;
+    background: red;
+}
+
+.colum_rd-66 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    left: 83.33%;
+    background: red;
+}
+
+.sub_colum-3 {
+    width: 100%;
+    height: 33.33%;
+    position: absolute;
+    top: 66.66%;
+}
+.colum_rd-111 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+}
+
+.colum_rd-222 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 16.66%;
+/*    background: red;*/
+}
+
+.colum_rd-333 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 33.33%;
+/*    background: red;*/
+}
+
+.colum_rd-444 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 50%;
+/*    background: red;*/
+}
+
+.colum_rd-555 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    border-right: 1px solid black;
+    left: 66.66%;
+/*    background: red;*/
+}
+
+.colum_rd-666 {
+    width: 16.66%;
+    height: 100%;
+    position: absolute;
+    left: 83.33%;
+/*    background: red;*/
+}
+
+/*ludu rd-2 end here*/
+
+/*ludu rd-3 start here*/
+.ludu_rd-3 {
+    width: 200px;
+    height: 300px;
+    background: #fff;
+    position: absolute;
+    top: 500px;
+    left: 300px;
+}
+
+.main_cell-3 {
+    width: 200px;
+    height: 300px;
+    position: relative;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.bottom_colum-1 {
+	width: 33.33%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+}
+.main_bottom_colum-1 {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.sub_bottom_colum-1 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    border-bottom: 1px solid black;
+}
+.sub_bottom_colum-2 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 16.66%;
+    border-bottom: 1px solid black;
+}
+.sub_bottom_colum-3 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 33.33%;
+    border-bottom: 1px solid black;
+}
+.sub_bottom_colum-4 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 50%;
+    border-bottom: 1px solid black;
+}
+.sub_bottom_colum-5 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 66.66%;
+    border-bottom: 1px solid black;
+    background: #C69B1A;
+}
+.sub_bottom_colum-6 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 83.33%;
+}
+.bottom_colum-2 {
+	width: 33.33%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left: 33.33%
+}
+.main_bottom_colum-2 {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.sub_bottom_colum-11 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    border-bottom: 1px solid black;
+    background:#C69B1A;
+}
+.sub_bottom_colum-22 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 16.66%;
+    border-bottom: 1px solid black;
+    background:#C69B1A;
+}
+.sub_bottom_colum-33 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 33.33%;
+    border-bottom: 1px solid black;
+    background:#C69B1A;
+}
+.sub_bottom_colum-44 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 50%;
+    border-bottom: 1px solid black;
+    background:#C69B1A;
+}
+.sub_bottom_colum-55 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 66.66%;
+    border-bottom: 1px solid black;
+    background: #C69B1A;
+}
+.sub_bottom_colum-66 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 83.33%;
+}
+.bottom_colum-3 {
+	width: 33.33%;
+	height: 100%;
+	position: absolute;
+    left: 66.66%;
+}
+.main_bottom_colum-3 {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.sub_bottom_colum-111 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    border-bottom: 1px solid black;
+/*    background:#C69B1A;*/
+}
+.sub_bottom_colum-222 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 16.66%;
+    border-bottom: 1px solid black;
+/*    background:#C69B1A;*/
+}
+.sub_bottom_colum-333 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 33.33%;
+    border-bottom: 1px solid black;
+/*    background:#C69B1A;*/
+}
+.sub_bottom_colum-444 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 50%;
+    border-bottom: 1px solid black;
+/*    background:#C69B1A;*/
+}
+.sub_bottom_colum-555 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 66.66%;
+    border-bottom: 1px solid black;
+/*    background: #C69B1A;*/
+}
+.sub_bottom_colum-666 {
+	width: 100%;
+	height: 16.66%;
+	position: absolute;
+    top: 83.33%;
+}
+
+/*ludu rd-3 end here*/
+
+/*ludu rd-4 css start here*/
+.ludu_rd-4 {
+    width: 300px;
+    height: 200px;
+    background: #fff;
+    top: 300px;
+    left: 500px;
+    position: absolute;
+}
+.main_cell-4 {
+	width: 300px;
+	height: 200px;
+	position: relative;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.right_site_colum-1 {
+	width: 100%;
+	height: 33.33%;
+	position: absolute;
+	border-bottom: 1px solid black;
+}
+.right_colum-1 {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.sub_right_colum-1 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+}
+.sub_right_colum-2 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:16.66%;
+}
+.sub_right_colum-3 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:33.33%;
+}
+.sub_right_colum-4 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:50%;
+}
+.sub_right_colum-5 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:66.66%;
+}
+.sub_right_colum-6 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+    left:83.33%;
+}
+.right_site_colum-2 {
+	width: 100%;
+	height: 33.33%;
+	position: absolute;
+	border-bottom: 1px solid black;
+    top: 33.33%;
+}
+.right_colum-2 {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.sub_right_colum-11 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    background:#D213B5;
+}
+.sub_right_colum-22 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:16.66%;
+    background:#D213B5;
+}
+.sub_right_colum-33 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:33.33%;
+    background:#D213B5;
+}
+.sub_right_colum-44 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:50%;
+    background:#D213B5;
+}
+.sub_right_colum-55 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:66.66%;
+    background:#D213B5;
+}
+.sub_right_colum-66 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+    left:83.33%;
+}
+.right_site_colum-3 {
+	width: 100%;
+	height: 33.33%;
+	position: absolute;
+    top: 66.66%;
+}
+.right_colum-3 {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.sub_right_colum-111 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+}
+.sub_right_colum-222 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:16.66%;
+}
+.sub_right_colum-333 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:33.33%;
+}
+.sub_right_colum-444 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:50%;
+}
+.sub_right_colum-555 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+	border-right: 1px solid black;
+    left:66.66%;
+    background:#D213B5;
+}
+.sub_right_colum-666 {
+	width: 16.66%;
+	height: 100%;
+	position: absolute;
+    left:83.33%;
+}
+/*ludu rd-4 css end here*/
+
+/*center images css start*/
+
+.main_img {
+	width: 200px;
+	height: 200px;
+	position:relative;
+	left: 300px;
+	top: 300px;
+/*    background: yellow;*/
+}
+
+/*center images css end*/
+h2 {
+	text-align: center;
+	color: darkblue;
+	font-size: 25px;
+	margin-top: -3.5%;
+    font-family: sans-serif;
+}
+p {
+	text-align: center;
+	font-size: 20px;
+	padding-top: 1px;
+	color: darkgreen;
+	font-family: sans-serif;
+}
